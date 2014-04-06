@@ -1,0 +1,24 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+/*
+Theme Name: 淡水桌游小组
+Theme URI: 
+Author: Sam
+Author URI: 
+Description: 
+Version: 1.0
+*/
+/*
+.pagenavi{text-align:center;padding:1em 0 1.5em;}
+.page-numbers{border-bottom:5px solid #ccc;padding:5px 8px 4px;margin:0 5px;}
+.page-numbers:hover,.pagenavi .current{color:#D581A2;border-bottom:5px solid #D581A2;}
+*/
+.clear {clear:both;}
+
+#footer_link li { float:left; width:42%; }
+#ava { margin:0; position:absolute; bottom:1px; right:36px;}
+
+.more-link { margin-top:20px; display:block;}
+
+#header_menu li a:hover { padding: 3px; background-color: #2D96BD;border-radius: 7px;color:#fff; }
